@@ -1,8 +1,7 @@
 {
 	"auto_complete_commit_on_tab": true,
 	"auto_complete_with_fields": true,
-	"color_scheme": "Packages/Daryl Color Scheme/Daryl.tmTheme",
-	"font_size": 14,
+	"color_scheme": "Packages/User/Daryl.tmTheme",
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
@@ -14,5 +13,19 @@
 	],
 	"shift_tab_unindent": true,
 	"spell_check": false,
-	"theme": "Soda Dark.sublime-theme"
+	"theme": "Soda Dark.sublime-theme",
+
+	// Platform-specific settings
+	"osx":
+    {
+        "font_size": 14.0
+    },
+    "linux":
+    {
+        "font_size": 14.0
+    },
+    "windows":
+    {
+        "font_size": 12.0
+    }
 }
