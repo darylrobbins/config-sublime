@@ -1,0 +1,21 @@
+{
+	"installed_packages":
+	[
+		"CoffeeScript",
+		"Color Highlighter",
+		"ColorPick",
+		"ColorSchemeSelector",
+		"DetectSyntax",
+		"Emmet",
+		"Git",
+		"Git Status Files",
+		"Github Tools",
+		"Grails",
+		"LineEndings",
+		"Package Control",
+		"ReadmePlease",
+		"Ruby on Rails snippets",
+		"Sass",
+		"Theme - Soda"
+	]
+}
